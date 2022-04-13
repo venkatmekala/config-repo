@@ -1,6 +1,2 @@
-
-db.url=jdbc:h2:mem:paymentdb
-db.driver=org.h2.Driver
-db.username=payment
-db.password=payment
-db.dialect=org.hibernate.dialect.H2Dialect
+payment:
+ name: single payment
